@@ -1,0 +1,48 @@
+{
+  "channel": "beta",
+  "serial": 1,
+  "version": "0.2.1",
+  "published": "2026-11-01T01:13:35Z",
+  "notes": "https://github.com/sheng-tse/argonauts-code/releases/tag/v0.2.1",
+  "min_version": "0.1.0",
+  "halted": false,
+  "yanked": [],
+  "rollout": [
+    {
+      "from": "2026-11-01T01:13:35Z",
+      "percent": 100
+    }
+  ],
+  "platforms": {
+    "aarch64-apple-darwin": {
+      "url": "https://github.com/sheng-tse/argonauts-code/releases/download/v0.2.1/argonauts-code-aarch64-apple-darwin.tar.xz",
+      "sha256": "19ae0f960d0d301d6a6cdce6de02f3d8bc83989aaf3a81516384973962edabaa",
+      "size": 27048312
+    },
+    "aarch64-unknown-linux-gnu": {
+      "url": "https://github.com/sheng-tse/argonauts-code/releases/download/v0.2.1/argonauts-code-aarch64-unknown-linux-gnu.tar.xz",
+      "sha256": "786ff259c71e1796cceb01bd426922c534b9b0a31b714b31900c94f920a09efc",
+      "size": 27186200
+    },
+    "aarch64-unknown-linux-musl": {
+      "url": "https://github.com/sheng-tse/argonauts-code/releases/download/v0.2.1/argonauts-code-aarch64-unknown-linux-musl.tar.xz",
+      "sha256": "6f1267ae894ad89b38d6405b2800ae380f8a52343159a76073f7d8969a3d0deb",
+      "size": 27090452
+    },
+    "x86_64-apple-darwin": {
+      "url": "https://github.com/sheng-tse/argonauts-code/releases/download/v0.2.1/argonauts-code-x86_64-apple-darwin.tar.xz",
+      "sha256": "c94857d6d3a2b0ed33098b9f9df6f5605a52f0b9e279e6562400f8c86d4b4f8d",
+      "size": 30088048
+    },
+    "x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/sheng-tse/argonauts-code/releases/download/v0.2.1/argonauts-code-x86_64-unknown-linux-gnu.tar.xz",
+      "sha256": "43f9b88b28bdb748b6d9ce384d581e8b0f5a684d24dd13772f07696517f765bb",
+      "size": 30582440
+    },
+    "x86_64-unknown-linux-musl": {
+      "url": "https://github.com/sheng-tse/argonauts-code/releases/download/v0.2.1/argonauts-code-x86_64-unknown-linux-musl.tar.xz",
+      "sha256": "fc794ba7982cab6997c68e6302627825711423adf7f1be6c629b6dca4388cdf1",
+      "size": 30935048
+    }
+  }
+}
